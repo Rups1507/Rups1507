@@ -62,6 +62,8 @@ An aspiring Java Backend Developer <img src="https://media.giphy.com/media/WUlpl
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rups1507&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rups1507&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rups1507&show_icons=true&theme=radical)
 <!--
 **Rups1507/Rups1507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
