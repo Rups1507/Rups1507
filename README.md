@@ -30,7 +30,7 @@
 
 ### :man_technologist: About Me :
 
-I am an aspiring Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+An aspiring Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - :telescope: I’m currently enrolled in Full Stack Web Development Bootcamp in Masai School.
 
 - :school: Have done Bachelor in Computer Application.
