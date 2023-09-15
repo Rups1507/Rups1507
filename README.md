@@ -38,7 +38,7 @@ An aspiring Java Backend Developer <img src="https://media.giphy.com/media/WUlpl
 - :zap: In my free time, I like  to read Web Novels or Mangas/Manhwas.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rupesh-tiwari-a78031182/)
-- 🧰 Portfolio: https://github.com/Rups1507/Rups1507.github.io
+- 🧰 Portfolio: [https://github.com/Rups1507/Rups1507.github.io](https://rups1507.github.io/)
 
 ---
 
